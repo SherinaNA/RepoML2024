@@ -51,6 +51,7 @@ Dengan percobaan input nilai RGB suatu warna, pallete macam-macam 'Seasonal Colo
 * https://colorhunt.co/palettes/winter
 * https://colorhunt.co/palettes/fall
 * https://colorhunt.co/palettes/summer
+
 Berdasarkan uji input RGB, model telah menunjukkan hasil output 'Seasonal Color' yang sudah sesuai.
 Walaupun masih memungkinkan untuk terjadinya error.
 

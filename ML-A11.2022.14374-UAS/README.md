@@ -33,6 +33,25 @@ Namun, permasalahannya ada terletak pada setelah mendapatkan kesesuaian pola, ba
 4. Model Training
 5. Model Evaluation
 
+## Point 3-5 akan dijelaskan pada file Summary_Experiment.ipynb
+(Summary_Experiment.ipynb)
 
+## Diskusi Hasil
+Model yang dibangun memiliki performa yang cukup baik dalam mengklasifikasikan warna berdasarkan musim walaupun masih memiliki kemungkinan terjadi overfitting.
+Dari confusion matrix, kita bisa melihat bahwa beberapa kelas memiliki tingkat kesalahan yang lebih tinggi dibandingkan yang lain.
+
+## Kesimpulan
+1. Model dapat mengklasifikasikan warna ke dalam musim dengan cukup baik. Warna dapat diklasifikasikan sesuai dengan kriteria 'Seasonal Color'.
+2. Performa model dapat ditingkatkan dengan menggunakan lebih banyak data dan teknik pra-pemrosesan data yang lebih baik lagi.
+3. Model ini dapat digunakan dalam aplikasi yang memerlukan klasifikasi warna berdasarkan musim, seperti dalam industri fashion.
+
+## Test Uji Model dengan input RGB
+Dengan percobaan input nilai RGB suatu warna, pallete macam-macam 'Seasonal Color' dapat dilihat pada link:
+* https://colorhunt.co/palettes/spring
+* https://colorhunt.co/palettes/winter
+* https://colorhunt.co/palettes/fall
+* https://colorhunt.co/palettes/summer
+Berdasarkan uji input RGB, model telah menunjukkan hasil output 'Seasonal Color' yang sudah sesuai.
+Walaupun masih memungkinkan untuk terjadinya error.
 
 

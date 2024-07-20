@@ -1,0 +1,349 @@
+Name,Category
+Bergamot,Citrus
+Lemon,Citrus
+Orange,Citrus
+Grapefruit,Citrus
+Mandarin,Citrus
+Lime,Citrus
+Neroli,Citrus
+Clementine,Citrus
+Tangerine,Citrus
+Yuzu,Citrus
+Pomelo,Citrus
+Kaffir Lime,Citrus
+Bitter Orange,Citrus
+Citron,Citrus
+Calamondin,Citrus
+Kumquat,Citrus
+Blood Orange,Citrus
+Seville Orange,Citrus
+Green Mandarin,Citrus
+Sweet Orange,Citrus
+Finger Lime,Citrus
+Rangpur,Citrus
+Sudachi,Citrus
+Bergamot Orange,Citrus
+Meyer Lemon,Citrus
+Persian Lime,Citrus
+Key Lime,Citrus
+Mexican Lime,Citrus
+Sweet Lemon,Citrus
+Rough Lemon,Citrus
+Oroblanco,Citrus
+Tangor,Citrus
+Ugli Fruit,Citrus
+Combava,Citrus
+Caviar Lime,Citrus
+Mandarin Petitgrain,Citrus
+Lemon Verbena,Citrus
+Lemon Balm,Citrus
+Lemon Zest,Citrus
+Lemon Leaf,Citrus
+Orange Zest,Citrus
+Orange Leaf,Citrus
+Grapefruit Zest,Citrus
+Grapefruit Leaf,Citrus
+Bergamot Zest,Citrus
+Bergamot Leaf,Citrus
+Citrus Peel,Citrus
+Citrus Blossom,Citrus
+Kaffir Lime Leaf,Citrus
+Kumquat Peel,Citrus
+Lavender,Flowers
+Rose,Flowers
+Jasmine,Flowers
+Ylang-Ylang,Flowers
+Iris,Flowers
+Violet,Flowers
+Lily of the Valley,Flowers
+Magnolia,Flowers
+Peony,Flowers
+Gardenia,Flowers
+Honeysuckle,Flowers
+Tuberose,Flowers
+Freesia,Flowers
+Narcissus,Flowers
+Orchid,Flowers
+Cherry Blossom,Flowers
+Camellia,Flowers
+Daffodil,Flowers
+Hyacinth,Flowers
+Lilac,Flowers
+Orange Blossom,Flowers
+Osmanthus,Flowers
+Plumeria,Flowers
+Poppy,Flowers
+Carnation,Flowers
+Sunflower,Flowers
+Daisy,Flowers
+Geranium,Flowers
+Mimosa,Flowers
+Sweet Pea,Flowers
+Marigold,Flowers
+Bluebell,Flowers
+Anemone,Flowers
+Hibiscus,Flowers
+Heliotrope,Flowers
+Petunia,Flowers
+Stock,Flowers
+Viola,Flowers
+Wisteria,Flowers
+Primrose,Flowers
+Lotus,Flowers
+Morning Glory,Flowers
+Pansy,Flowers
+Zinnia,Flowers
+Snowdrop,Flowers
+Foxglove,Flowers
+Alyssum,Flowers
+Begonia,Flowers
+Sweet William,Flowers
+Columbine,Flowers
+Sandalwood,Woods
+Cedarwood,Woods
+Patchouli,Woods
+Vetiver,Woods
+Oakmoss,Woods
+Pine,Woods
+Guaiac Wood,Woods
+Agarwood,Woods
+Rosewood,Woods
+Ebony,Woods
+Mahogany,Woods
+Teak,Woods
+Birch,Woods
+Cypress,Woods
+Balsam Fir,Woods
+Redwood,Woods
+Maple,Woods
+Willow,Woods
+Moss,Woods
+Oud,Woods
+Hinoki,Woods
+Amberwood,Woods
+Frankincense,Woods
+Myrtle,Woods
+Labdanum,Woods
+Cashmere Wood,Woods
+Tobacco,Woods
+Driftwood,Woods
+Juniper,Woods
+Cedar,Woods
+Palisander Rosewood,Woods
+Bamboo,Woods
+Silver Fir,Woods
+Palo Santo,Woods
+Ebony Wood,Woods
+Amaris Wood,Woods
+Tolu Balsam,Woods
+Spruce,Woods
+Larch,Woods
+Ebony Tree,Woods
+Macassar Ebony,Woods
+Sipo Mahogany,Woods
+African Blackwood,Woods
+Bay Laurel,Woods
+Hemlock,Woods
+Mountain Juniper,Woods
+Olibanum,Woods
+Tasmanian Oak,Woods
+Australian Sandalwood,Woods
+Scots Pine,Woods
+Apple,Fruity
+Peach,Fruity
+Pear,Fruity
+Raspberry,Fruity
+Blackcurrant,Fruity
+Pineapple,Fruity
+Mango,Fruity
+Banana,Fruity
+Strawberry,Fruity
+Cherry,Fruity
+Blueberry,Fruity
+Melon,Fruity
+Cranberry,Fruity
+Passion Fruit,Fruity
+Kiwi,Fruity
+Lychee,Fruity
+Grape,Fruity
+Pomegranate,Fruity
+Guava,Fruity
+Apricot,Fruity
+Coconut,Fruity
+Fig,Fruity
+Plum,Fruity
+Watermelon,Fruity
+Nectarine,Fruity
+Papaya,Fruity
+Mulberry,Fruity
+Cassis,Fruity
+Boysenberry,Fruity
+Loganberry,Fruity
+Starfruit,Fruity
+Tamarind,Fruity
+Persimmon,Fruity
+Jujube,Fruity
+Quince,Fruity
+Date,Fruity
+Acai,Fruity
+Prune,Fruity
+Rambutan,Fruity
+Kiwano,Fruity
+Salak,Fruity
+Jackfruit,Fruity
+Mirabelle,Fruity
+Mangosteen,Fruity
+Medlar,Fruity
+Soursop,Fruity
+Sugar-apple,Fruity
+Cupuacu,Fruity
+Durian,Fruity
+Dragonfruit,Fruity
+Fig,Greens
+Basil,Greens
+Thyme,Greens
+Green Tea,Greens
+Mint,Greens
+Cucumber,Greens
+Tomato Leaf,Greens
+Galbanum,Greens
+Clary Sage,Greens
+Tarragon,Greens
+Grass,Greens
+Peppermint,Greens
+Spearmint,Greens
+Eucalyptus,Greens
+Hemp,Greens
+Bamboo,Greens
+Ivy,Greens
+Juniper Leaf,Greens
+Laurel Leaf,Greens
+Lemongrass,Greens
+Pine Needle,Greens
+Violet Leaf,Greens
+Parsley,Greens
+Shiso,Greens
+Mate,Greens
+Tea Leaf,Greens
+Geranium Leaf,Greens
+Davana,Greens
+Cardamom Leaf,Greens
+Blackcurrant Leaf,Greens
+Cilantro,Greens
+Lovage,Greens
+Pine Shoot,Greens
+Verbena,Greens
+Pepper Leaf,Greens
+Celery Leaf,Greens
+Dill,Greens
+Carrot Leaf,Greens
+Tea Tree,Greens
+Olive Leaf,Greens
+Fennel Leaf,Greens
+Clove Leaf,Greens
+Costmary,Greens
+Ho Leaf,Greens
+Lettuce,Greens
+Chervil,Greens
+Mustard Leaf,Greens
+Beet Leaf,Greens
+Kale Leaf,Greens
+Bay Leaf,Greens
+Vanilla,Sweet
+Caramel,Sweet
+Honey,Sweet
+Cotton Candy,Sweet
+Maple Syrup,Sweet
+Marshmallow,Sweet
+Chocolate,Sweet
+Praline,Sweet
+Toffee,Sweet
+Butterscotch,Sweet
+Milk,Sweet
+Sugar,Sweet
+Hazelnut,Sweet
+Nougat,Sweet
+Almond,Sweet
+Syrup,Sweet
+Molasses,Sweet
+Cupcake,Sweet
+Cake,Sweet
+Candy,Sweet
+Cookie,Sweet
+Jelly Bean,Sweet
+Licorice,Sweet
+Cinnamon,Sweet
+Gingerbread,Sweet
+Fudge,Sweet
+Glazed,Sweet
+Ice Cream,Sweet
+Meringue,Sweet
+Macaron,Sweet
+Pastry,Sweet
+Pie,Sweet
+Pudding,Sweet
+Shortbread,Sweet
+Snickerdoodle,Sweet
+Sorbet,Sweet
+Tart,Sweet
+Truffle,Sweet
+Wafer,Sweet
+Waffle,Sweet
+White Chocolate,Sweet
+Yogurt,Sweet
+Brown Sugar,Sweet
+Buttermilk,Sweet
+Churro,Sweet
+Candy Cane,Sweet
+Carrot Cake,Sweet
+Donut,Sweet
+Sea Breeze,Aquatic
+Ocean Water,Aquatic
+Marine Accord,Aquatic
+Salty Air,Aquatic
+Seaweed,Aquatic
+Algae,Aquatic
+Water Lily,Aquatic
+Lotus,Aquatic
+Driftwood,Aquatic
+Coral,Aquatic
+Sea Salt,Aquatic
+Sea Foam,Aquatic
+Kelp,Aquatic
+Marine Salt,Aquatic
+Rainwater,Aquatic
+Wet Stone,Aquatic
+Aquatic Moss,Aquatic
+Sea Spray,Aquatic
+Brine,Aquatic
+Cool Water,Aquatic
+Freshwater,Aquatic
+Marine Air,Aquatic
+Lake Water,Aquatic
+River Water,Aquatic
+Dew,Aquatic
+Water Mint,Aquatic
+Cucumber,Aquatic
+Blue Lagoon,Aquatic
+Pond Water,Aquatic
+Aqua,Aquatic
+Water Accord,Aquatic
+Oceanic,Aquatic
+Seashore,Aquatic
+Wet Sand,Aquatic
+Island Breeze,Aquatic
+Fresh Lagoon,Aquatic
+Bay Water,Aquatic
+Harbour Breeze,Aquatic
+Marine Ozone,Aquatic
+Ice Water,Aquatic
+Arctic Breeze,Aquatic
+Glacier Water,Aquatic
+Deep Sea,Aquatic
+Sea Ice,Aquatic
+Marine Mist,Aquatic
+Cascade Water,Aquatic
+Aqua Marine,Aquatic
+Ocean Mist,Aquatic
+Rainforest Water,Aquatic
+Tidal Wave,Aquatic

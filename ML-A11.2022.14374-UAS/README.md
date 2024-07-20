@@ -34,7 +34,7 @@ Namun, permasalahannya ada terletak pada setelah mendapatkan kesesuaian pola, ba
 5. Model Evaluation
 
 ## Point 3-5 akan dijelaskan pada file Summary_Experiment.ipynb
-(Summary_Experiment.ipynb)
+[Summary_Experiment](Summary_Experiment.ipynb)
 
 ## Diskusi Hasil
 Model yang dibangun memiliki performa yang cukup baik dalam mengklasifikasikan warna berdasarkan musim walaupun masih memiliki kemungkinan terjadi overfitting.

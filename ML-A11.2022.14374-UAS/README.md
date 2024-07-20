@@ -1,7 +1,7 @@
 # Seasonal Color Classification Using RGB and HSL Features
 
-Nama: Sherina Nur Anggraeni
-NIM: A11.2022.14374
+Nama: Sherina Nur Anggraeni | 
+NIM: A11.2022.14374 | 
 Mata Kuliah: Machine Learning
 
 ## Ringkasan
@@ -24,5 +24,15 @@ Namun, permasalahannya ada terletak pada setelah mendapatkan kesesuaian pola, ba
 1. Membangun model machine learning untuk mengklasifikasikan warna berdasarkan kesesuaian musim.
 2. Mengevaluasi performa model menggunakan metrik evaluasi yang sesuai.
 3. Menganalisis hasil dan memberikan kesimpulan mengenai performa model.
+
+## Model / Alur Penyelesaian
+![Model Alur Penyelesaian](alur-modeling.png)
+1. Data Collection
+2. Data Preprocessing
+3. Feature Engineering
+4. Model Training
+5. Model Evaluation
+
+
 
 
